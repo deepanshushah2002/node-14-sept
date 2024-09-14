@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Julianna",
+        "last_name": "Peiser",
+        "email": "jpeiser0@de.vu",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Alex",
+        "last_name": "Coulthard",
+        "email": "acoulthard1@usgs.gov",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Donalt",
+        "last_name": "Burbidge",
+        "email": "dburbidge2@walmart.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Russell",
+        "last_name": "Cail",
+        "email": "rcail3@1688.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Maximilien",
+        "last_name": "Raatz",
+        "email": "mraatz4@spotify.com",
+        "gender": "Bigender"
+    },
+    {
+        "id": 6,
+        "first_name": "Madlin",
+        "last_name": "Wanklyn",
+        "email": "mwanklyn5@ca.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Frederico",
+        "last_name": "Bordiss",
+        "email": "fbordiss6@google.com.au",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Rhody",
+        "last_name": "Christaeas",
+        "email": "rchristaeas7@ovh.net",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Ripley",
+        "last_name": "Nortcliffe",
+        "email": "rnortcliffe8@1und1.de",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Aleda",
+        "last_name": "Ponting",
+        "email": "aponting9@yellowpages.com",
+        "gender": "Female"
+    }
+]
